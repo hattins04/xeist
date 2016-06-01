@@ -7,15 +7,16 @@ body {
 .navbar-default {
     background-color: #dcdcdc;
     border-color: #000;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 10px;
     margin-bottom: 0;
-    background-size: auto;
+    height: 110px;
 }
 /* title */
  .navbar-brand img {
-    width:100px;
-    height: 40px;;
+    width:150px;
+    height: 80px;
+    padding-left: 30px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -24,6 +25,8 @@ body {
 /* link */
 .navbar-default .navbar-nav > li > a {
     color: #000;
+    padding-top: 65px;
+
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -49,6 +52,12 @@ body {
 }
 .navbar-form  {
   padding-left: 330px;
+}
+.nav .navbar-nav {
+  padding-left: 30px;
+}
+.logo-two {
+  padding-left: 1050px;
 }
 
  .carousel-control.left, .carousel-control.right {
