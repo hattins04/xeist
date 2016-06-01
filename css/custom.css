@@ -26,6 +26,7 @@ body {
 .navbar-default .navbar-nav > li > a {
     color: #000;
     padding-top: 65px;
+    font-size: 20px;
 
 }
 .navbar-default .navbar-nav > li > a:hover,
@@ -57,7 +58,7 @@ body {
   padding-left: 30px;
 }
 .logo-two {
-  padding-left: 1050px;
+  padding-left: 0;
 }
 
  .carousel-control.left, .carousel-control.right {
