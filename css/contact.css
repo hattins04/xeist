@@ -53,8 +53,11 @@ body {
 .navbar-form  {
   padding-left: 330px;
 }
- .navbar-nav {
-  margin-right: 50px;
+.nav .navbar-nav {
+  padding-left: 30px;
+}
+.move img {
+  margin-left: 670px;
 }
 .send {
   padding-top: 40px;
