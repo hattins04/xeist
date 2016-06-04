@@ -132,6 +132,10 @@ body {
 	font-weight: normal;
 	margin: 0;
 }
+.footer-distributed .footer-company-name a{
+	text-decoration: none;
+	color:  inherit;
+}
 
 /* Footer Center */
 
