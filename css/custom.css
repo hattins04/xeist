@@ -4,7 +4,7 @@ body {
 
 /* navbar */
 .navbar-default {
-    background-color: #000;
+    background-image: url(../img/chrome.png);
     border-color: #000;
     padding-top: 0px;
     padding-bottom: 10px;
@@ -24,8 +24,8 @@ body {
 }
 /* link */
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
-    padding-top: 24px;
+    color: #000;
+    padding-top: 23px;
     font-size: 13px;
     font-family: 'Lato', sans-serif;
 
@@ -58,6 +58,7 @@ body {
 .nav .navbar-nav {
   padding-left: 30px;
 }
+/*END NAV*/
 .move img {
   margin-left: 600px;
 }
